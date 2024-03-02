@@ -1,12 +1,12 @@
 # Проект 0. Угадай число
 
 ## Оглавление
-[1. Описание проекта](https://github.com/itbias/sf_data_science/blob/main/project_0/README.MD#Описание-проекта)
-[2. Какой кейс решаем?](https://github.com/itbias/sf_data_science/tree/main/project_0#Какой-кейс-решаем)
-[3. Краткая информация о данных](https://github.com/itbias/sf_data_science/tree/main/project_0#Краткая-информацмя-о-данных)
-[4. Этапы работы над проектом](https://github.com/itbias/sf_data_science/tree/main/project_0#Этапы-работы-над-проектом)
-[5. Результат](https://github.com/itbias/sf_data_science/tree/main/project_0#Результат)
-[6. Выводы](https://github.com/itbias/sf_data_science/tree/main/project_0#Выводы)
+* [1. Описание проекта](https://github.com/itbias/sf_data_science/blob/main/project_0/README.MD#Описание-проекта)
+* [2. Какой кейс решаем?](https://github.com/itbias/sf_data_science/tree/main/project_0#Какой-кейс-решаем)
+* [3. Краткая информация о данных](https://github.com/itbias/sf_data_science/tree/main/project_0#Краткая-информацмя-о-данных)
+* [4. Этапы работы над проектом](https://github.com/itbias/sf_data_science/tree/main/project_0#Этапы-работы-над-проектом)
+* [5. Результат](https://github.com/itbias/sf_data_science/tree/main/project_0#Результат)
+* [6. Выводы](https://github.com/itbias/sf_data_science/tree/main/project_0#Выводы)
 
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
