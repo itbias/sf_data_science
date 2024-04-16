@@ -1,15 +1,15 @@
-# Homework 1. Анализ базы данных резюме c Head Hunter
+# Project 1. Анализ базы данных резюме c Head Hunter
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/IlyaPolunin/SF_DST78_homework/blob/main/homework_1/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/IlyaPolunin/SF_DST78_homework/blob/main/homework_1/README.md#Какой-кейс-решаем)  
-[3. Результаты](https://github.com/IlyaPolunin/SF_DST78_homework/blob/main/homework_1/README.md#Результаты)    
+[1. Описание проекта](https://github.com/itbias/sf_data_science/edit/main/project_1/Readme.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/itbias/sf_data_science/edit/main/project_1/Readme.md#Какой-кейс-решаем)  
+[3. Результаты](https://github.com/itbias/sf_data_science/edit/main/project_1/Readme.md#Результаты)    
 
 
 ### Описание проекта    
 Провести обработку данных из базы резюме, выгруженной с сайта поиска вакансий hh.ru.
 
-:arrow_up:[к оглавлению](https://github.com/IlyaPolunin/SF_DST78_homework/blob/main/homework_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/itbias/sf_data_science/edit/main/project_1/Readme.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -39,6 +39,6 @@
 работу с данными и оформление отчетов с помощью средств python 
 
 ### Результаты:  
-[Ноутбук с выполненными заданиями и выводами](https://github.com/IlyaPolunin/SF_DST78_homework/blob/main/homework_1/Project_1_HeadHunter_df.ipynb)
+[Ноутбук с выполненными заданиями и выводами](https://github.com/itbias/sf_data_science/blob/main/project_1/Project-1.ipynb)
 
-:arrow_up:[к оглавлению](https://github.com/IlyaPolunin/SF_DST78_homework/blob/main/homework_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/itbias/sf_data_science/edit/main/project_1/Readme.md#Оглавление)
